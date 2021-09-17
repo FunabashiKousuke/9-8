@@ -1,0 +1,11 @@
+a = 10
+b = 20
+if a > b
+  puts "aはbより大きい"
+elsif a < b
+  puts "aはbより小さい"
+else
+  puts "aはbと同じ"
+end 
+
+# 条件が真の時に処理を実行
